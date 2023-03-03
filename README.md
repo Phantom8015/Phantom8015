@@ -2,4 +2,4 @@
 
 I'm a programmer who makes random projects. Some related to AI.
 
-https://github.com/anuraghazra/github-readme-stats
+[![Phantom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantom8015&show_icons=true&theme=radical)](
