@@ -6,3 +6,8 @@ Whether I'm working on a personal project or collaborating with others, I always
 Feel free to take a look at some of my past projects, and don't hesitate to reach out if you're interested in working together!
 
 Reach me at: evaanchowdhry@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom8015&size_weight=0.5&count_weight=0.5&theme=gradient)](https://github.com/Phantom8015)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantom8015&show_icons=true&theme=gradient)
+
+
