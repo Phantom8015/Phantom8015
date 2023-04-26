@@ -7,7 +7,7 @@ Feel free to take a look at some of my past projects, and don't hesitate to reac
 
 Reach me at: evaanchowdhry@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom8015&size_weight=0.5&count_weight=0.5&theme=gradient)](https://github.com/Phantom8015)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantom8015&show_icons=true&theme=gradient)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom8015&size_weight=0.5&count_weight=0.5&theme=gradient)](https://github.com/Phantom8015)  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantom8015&show_icons=true&theme=gradient)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Phantom8015)](https://git.io/streak-stats)  
+  
