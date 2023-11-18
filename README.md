@@ -3,5 +3,5 @@ My name is Evaan Chowdhry, and I'm a programmer who loves to create random proje
 
 Reach me at: evaanchowdhry@gmail.com
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantom8015&show_icons=true&theme=gradient)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom8015&size_weight=0.5&count_weight=0.5&theme=gradient)](https://github.com/Phantom8015)  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EvaanChowdhry&show_icons=true&theme=gradient)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvaanChowdhry&size_weight=0.5&count_weight=0.5&theme=gradient)](https://github.com/EvaanChowdhry)  
