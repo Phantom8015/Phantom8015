@@ -2,6 +2,4 @@ Hello! ![hi](https://user-images.githubusercontent.com/18350557/176309783-078594
 My name is Evaan Chowdhry, and I'm a programmer who loves to create random projects. I'm proficient in a variety of languages and tools, including Python, JavaScript, Bash, Node.js, and other languages. I am open to collaborating on anything. 
 
 Reach me at: evaanchowdhry@gmail.com
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EvaanChowdhry&show_icons=true&theme=gradient)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvaanChowdhry&size_weight=0.5&count_weight=0.5&theme=gradient)](https://github.com/EvaanChowdhry)  
