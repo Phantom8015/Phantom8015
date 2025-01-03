@@ -33,8 +33,12 @@ Skills (at least whatever I could find an icon for:
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   </a>
     <a href="https://apple.ca" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/blob/main/public/icons/skills/macos-dark.svg" width="36" height="36" alt="macOS" />
+        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/macos-dark.svg" width="36" height="36" alt="macOS" />
     </a>
+    <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/flask-dark.svg" width="36" height="36" alt="macOS" />
+    </a>
+  
 </p>
 
 
