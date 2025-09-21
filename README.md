@@ -1,5 +1,5 @@
 Hello! 👋
-My name is Evaan Chowdhry, and I'm a programmer who loves to create random projects. I'm proficient in a variety of languages and tools, including Python, JavaScript, Bash, Node.js, and other languages. I am open to collaborating on anything. 
+My name is Evaan Chowdhry, and I'm a programmer who loves to create random projects.
 
 https://phantom8015.vercel.app
 
@@ -36,9 +36,11 @@ Skills (at least whatever I could find an icon for:
         <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/macos-dark.svg" width="36" height="36" alt="macOS" />
     </a>
     <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/flask-dark.svg" width="36" height="36" alt="macOS" />
+        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/flask-dark.svg" width="36" height="36" alt="Flask" />
     </a>
-  
+    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind" />
+    </a>
 </p>
 
 
