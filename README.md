@@ -44,4 +44,3 @@ Skills (at least whatever I could find an icon for:
 Reach me at: evaanchowdhry@gmail.com  
 
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom8015&size_weight=0.5&count_weight=0.5&theme=dark)](https://github.com/Phantom8015 )  
