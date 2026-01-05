@@ -1,7 +1,7 @@
 Hello! 👋
 My name is Evaan Chowdhry, and I'm a programmer who loves to create random projects.
 
-https://phantom8015.vercel.app
+https://evaanchowdhry.site
 
 Skills (at least whatever I could find an icon for:
 <p align="left">
