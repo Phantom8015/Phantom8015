@@ -2,7 +2,7 @@
 Hi! I'm Evaan Chowdhry. I'm a student in highschool doing the IB program. I've been programming since 2020.
 
 ## Skills: 
-![Skills](https://skillicons.dev/icons?i=py,swift,unity,js,html,css,bash,ts,flask,apple,tailwind)
+![Skills](https://skillicons.dev/icons?i=py,swift,unity,js,nodejs,electron,vercel,aws,mongo,html,css,bash,ts,flask,apple,tailwind)
 
 ---
 
