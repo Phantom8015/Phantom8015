@@ -7,7 +7,6 @@ Hi! I'm Evaan Chowdhry. I'm a student in highschool doing the IB program. I've b
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Phantom8015&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_height=100)](https://git.io/streak-stats)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x622futbxoi7cjsdfqpkimvyd4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
 Reach me at: evaanchowdhry@gmail.com  
